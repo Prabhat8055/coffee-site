@@ -48,7 +48,7 @@
 
 .headder {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("02.png");
+    url("main_BI.png");
   z-index: -2;
   background-size: cover;
   position: absolute;
@@ -151,7 +151,7 @@
 .image {
   position: absolute;
   background-image: linear-gradient(rgba(14, 13, 13, 0.573), rgba(0, 0, 0, 0.616)),
-    url("haha.jpg");
+    url("menu_BI.jpg");
   height: 268vh;
   width: 100vw;
   background-size: 100%;
@@ -320,7 +320,7 @@ h5 {
 }
 
 .about-section {
-  background: linear-gradient(90deg,rgba(14, 13, 13, 0.536), rgba(0, 0, 0, 0.558)),url(image.jpg) no-repeat left;
+  background: linear-gradient(90deg,rgba(14, 13, 13, 0.536), rgba(0, 0, 0, 0.558)),url(aboutus_BI.jpg) no-repeat left;
   background-size: 55%;
   background-color: #fdfdfd;
   overflow: hidden;
