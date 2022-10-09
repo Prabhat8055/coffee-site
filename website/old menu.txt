@@ -1,0 +1,136 @@
+<div class="card1" style="width: 29rem">
+        <img src="https://th.bing.com/th/id/OIP.M0QuWKdFA8fO9PxDek68jgHaHa?pid=ImgDet&rs=1" class="card-img-top"
+          alt="..." height="330vh" width="300vw" />
+        <div class="card-body">
+          <h5 class="card-title">Cappuccino</h5>
+          <p class="card-text">
+            A cappuccino is an espresso-based coffee drink that originated in
+            Austria with later development taking place in Italy, and is
+            prepared with steamed milk foam (microfoam).
+          </p>
+          <a href="#" class="btn btn-primary">Place order</a>
+        </div>
+      </div>
+      <div class="card2" style="width: 29rem">
+        <img src="https://th.bing.com/th/id/OIP.fLcpOlF3QNYkojHRx8YwxAHaE8?pid=ImgDet&rs=1" class="card-img-top"
+          alt="..." />
+        <div class="card-body">
+          <h5 class="card-title">Espresso</h5>
+          <p class="card-text">
+            Espresso is a concentrated form of coffee served in small, strong
+            shots and is the base for many coffee drinks.
+          </p>
+          <a href="#" class="btn btn-primary">Place order</a>
+        </div>
+      </div>
+      <div class="card3" style="width: 29rem">
+        <img
+          src="https://www.cabernetgrill.com/images/food-drinks/unitegallery_thumbs/Cabernet-Drinks-10_768x100000.jpg"
+          class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title">Mocha Frappe</h5>
+          <p class="card-text">
+            Made with rich chocolate flavor and a hint of coffee, our Frappé
+            Mocha is blended with ice and covered with whipped topping and
+            chocolatey drizzle.
+          </p>
+          <a href="#" class="btn btn-primary">Place order</a>
+        </div>
+      </div>
+      <div class="card4" style="width: 29rem">
+        <img src="https://tx4ever.com/wp-content/uploads/2017/11/original-1917.jpeg" class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title">Latte</h5>
+          <p class="card-text">
+            This espresso is then combined with several ounces of steamed milk
+            to create a rich, creamy beverage that has a more subtle espresso
+            taste.
+          </p>
+          <a href="#" class="btn btn-primary">Place order</a>
+        </div>
+      </div>
+      <div class="card5" style="width: 29rem">
+        <img src="https://www.thedollarbusiness.com/assets/articles/2015/06/shutterstock_153285437_540.jpg"
+          class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title">Arabica Coffee</h5>
+          <p class="card-text">
+            Coffee produced from the (less acidic, more bitter, and more
+            highly caffeinated) robusta bean ( C. canephora) makes up most of
+            the remaining coffee production.
+          </p>
+          <a href="#" class="btn btn-primary">Place order</a>
+        </div>
+      </div>
+      <div class="card6" style="width: 29rem">
+        <img
+          src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_370/https://www.savingdessert.com/wp-content/uploads/2019/02/Irish-Coffee-5-370x245.jpg"
+          class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title">Irish coffee</h5>
+          <p class="card-text">
+            Irish coffee ( Irish: caife Gaelach) is a cocktail consisting of
+            hot coffee, Irish whiskey, and sugar, stirred, and topped with
+            cream. The coffee is drunk through the cream.
+          </p>
+          <a href="#" class="btn btn-primary">Place order</a>
+        </div>
+
+
+
+.card1 {
+  position: relative;
+  left: 14vw;
+  top: 12vh;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.card2 {
+  position: relative;
+  left: 58vw;
+  top: -54vh;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.card3 {
+  position: relative;
+  left: 14vw;
+  top: -29vh;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.card4 {
+  position: relative;
+  left: 58vw;
+  top: -90vh;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.card5 {
+  position: relative;
+  left: 14vw;
+  top: -72vh;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.card6 {
+  position: relative;
+  left: 58vw;
+  top: -123vh;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.card1 a:hover,
+.card2 a:hover,
+.card3 a:hover,
+.card4 a:hover,
+.card5 a:hover,
+.card6 a:hover {
+  background-color: rgb(125, 80, 11);
+}
